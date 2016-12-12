@@ -269,6 +269,9 @@ a:focus {
   color: black;
   background-color: #42DCA3;
 }
+.project-btn {
+  margin: 2px;
+}
 ul.banner-social-buttons {
   margin-top: 0;
 }
