@@ -49,6 +49,9 @@ a:focus {
   text-decoration: none;
   color: #1d9b6c;
 }
+.tech-btn {
+  font-size: 75px;
+}
 .light {
   font-weight: 400;
 }
